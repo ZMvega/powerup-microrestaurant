@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <br />
 <div align="center">
 <h3 align="center">PRAGMA POWER-UP</h3>
@@ -61,3 +62,6 @@ To get a local copy up and running follow these steps.
 - Right-click the test folder and choose Run tests with coverage
 # powerup-microrestaurant
 
+=======
+# powerup-microrestaurant
+>>>>>>> 252a37fb90e964733d8e76d5266216f628415ef1
